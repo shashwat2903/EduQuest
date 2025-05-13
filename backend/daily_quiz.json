@@ -1,0 +1,54 @@
+{
+"questions": [
+{
+"question": "Which of the following is the largest country in the world by land area?",
+"options": ["China", "Russia", "United States", "Brazil"],
+"answer": "Russia"
+},
+{
+"question": "What is the name of the ancient civilization that flourished in the Nile River valley?",
+"options": ["Egyptian", "Greek", "Roman", "Mesopotamian"],
+"answer": "Egyptian"
+},
+{
+"question": "Which of the following is the fastest animal in the world?",
+"options": ["Cheetah", "Lion", "Tiger", "Jaguar"],
+"answer": "Cheetah"
+},
+{
+"question": "What is the capital of Australia?",
+"options": ["Sydney", "Melbourne", "Canberra", "Perth"],
+"answer": "Canberra"
+},
+{
+"question": "Which of the following is the most abundant element in the universe?",
+"options": ["Hydrogen", "Helium", "Carbon", "Oxygen"],
+"answer": "Hydrogen"
+},
+{
+"question": "What is the name of the tallest mountain in the world?",
+"options": ["Mount Everest", "K2", "Kangchenjunga", "Lhotse"],
+"answer": "Mount Everest"
+},
+{
+"question": "Which of the following is a greenhouse gas?",
+"options": ["Carbon dioxide", "Nitrogen", "Oxygen", "Argon"],
+"answer": "Carbon dioxide"
+},
+{
+"question": "What is the name of the theory that explains the origin and evolution of the universe?",
+"options": ["Big Bang Theory", "Theory of Relativity", "Quantum Theory", "String Theory"],
+"answer": "Big Bang Theory"
+},
+{
+"question": "Which of the following is a non-metal?",
+"options": ["Gold", "Silver", "Iron", "Nitrogen"],
+"answer": "Nitrogen"
+},
+{
+"question": "What is the name of the largest ocean in the world?",
+"options": ["Pacific Ocean", "Atlantic Ocean", "Indian Ocean", "Arctic Ocean"],
+"answer": "Pacific Ocean"
+}
+]
+}
